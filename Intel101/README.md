@@ -40,11 +40,11 @@ Registrar Abuse Contact Phone: +1.9854014545
 ### Q2. You get a phone call from this number: 855-707-7328, they were previously known by another name? (No spaces between words)
 After research OSINT tool for phonenumber, I found [Intelligence X](https://intelx.io/tools). Select Phone Number.
 ![](images/1.png)<br/>
-I found the current owner is Spectrum.
+I found the current owner is Spectrum.<br/>
 ![](images/2.png)<br/>
-Search on Google for previous name.
+Search on Google for previous name.<br/>
 ![](images/3.png)<br/>
-**Answer:** 
+**Answer:** timewarnercable
 
 ### Q3. What is the Zoom meeting id of the British Prime Ministers Cabinet Meeting?
 Search on Google with keyword `zoom British Prime Ministers Cabinet Meeting`.<br/>
@@ -108,6 +108,7 @@ Find other lecture who studied there using Google Dorking Techniques, `inurl:cha
 ![](images/27.png)<br/>
 We found lecture studied here and also a member of Cybersecurity Faculty.<br/>
 ![](images/28.png)<br/>
+**Answer:** todd schroeder
 
 ### Q8. In 2019 UVM’s Ichthyology Class Had to Name their fish for class. Can you find out what the last person on the public roster named their fish?
 Search on Google with key `student 2019 UVM  Ichthyology Class`.<br/>
@@ -123,6 +124,6 @@ Use Bing Search Engine with `Visual Search`, I found an image quite similar to t
 ![](images/22.png)<br/>
 There is Dinosaur Land.<br/>
 ![](images/23.png)<br/>
-Use this name to search for State.
+Use this name to search for State.<br/>
 ![](images/24.png)<br/>
 **Answer:** Virginia
